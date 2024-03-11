@@ -1,0 +1,1 @@
+# Clojurescript project template
